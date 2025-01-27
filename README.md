@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipan Chakraborty</h1>
 <h3 align="center">A business student with a passion for technology and web development. Im a self-taught developer, eager to bring ideas to life through code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipan-ck" alt="dipan-ck" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
