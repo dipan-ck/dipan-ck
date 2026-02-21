@@ -1,16 +1,17 @@
-<div align="center">
+# Hi, I'm Dipan 👋
 
-# Hi 👋, I'm Dipan Chakraborty
+📍 **Chandigarh, India** 
 
-### I just love to code 💻
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Systems+Programming+Enthusiast;Open+Source+Contributor;NodeJS+%7C+Rust+%7C+React+Developer)](https://git.io/typing-svg)
-
-</div>
+> I write code because I love understanding how things work and I enjoy diving into systems,exploring their internals, and bringing my own implementations to life.
 
 
-
-
+<p align="left">
+<a href="https://github.com/dipan-ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dipan-ck" height="25" width="30" /></a>
+<a href="https://linkedin.com/in/dipan-chakraborty-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipan-chakraborty-dev" height="25" width="30" /></a>
+<a href="https://twitter.com/DipanCk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DipanCk" height="25" width="30" /></a>
+<a href="https://medium.com/@dipan2003.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dipan2003.dev" height="25" width="30" /></a>
+<a href="https://leetcode.com/dipan-ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipan-ck" height="25" width="30" /></a>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -24,72 +25,33 @@
 
 
 
-## 🌐 Connect with Me
+## 🌟 Featured Projects
 
-<p align="center">
-<a href="https://github.com/dipan-ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dipan-ck" height="35" width="45" /></a>
-<a href="https://linkedin.com/in/dipan-chakraborty-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipan-chakraborty-dev" height="35" width="45" /></a>
-<a href="https://twitter.com/DipanCk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DipanCk" height="35" width="45" /></a>
-<a href="https://medium.com/@dipan2003.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dipan2003.dev" height="35" width="45" /></a>
-<a href="https://leetcode.com/dipan-ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipan-ck" height="35" width="45" /></a>
-</p>
+- 🐚 **[Zen Shell](https://github.com/dipan-ck/Zen)** - A shell, written in Rust.
+- 🔥 **[Blaze](https://github.com/dipan-ck/Blaze)** - A Git clone in Rust — content-addressable storage, blob/tree/commit objects, and SHA-1 hashing.
+- 💬 **[Discuss](https://discuss.dipanck.com)** - Real-time communication platform with text channels and low-latency voice rooms using WebSockets and WebRTC.
+- ⚡ **[SignalJs](https://github.com/dipan-ck/SignalJs)** - Lightweight web framework with type-safe routing, Zod validation, and middleware support built on Web Standards.
+- ☁️ **[Clove](https://clove-vercel-clone.vercel.app/signin)** - Vercel-inspired deployment platform that builds React apps from GitHub, runs isolated ECS tasks, and serves via S3.
+- 🤖 **[Ragna AI](https://ragna.dipanck.com/)** - RAG-powered AI platform that indexes files as vectors for context-aware, instruction-driven responses.
+- 🗄️ **[AtomDB](https://github.com/dipan-ck/atomdb)** - Redis-compatible in-memory database in Go with multi-client support, TTL expiry, LRU eviction, and RESP parser.
+
+
+
 
 
 
 ## 🛠️ Languages & Tools
-
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,go,py,cpp" />
-</p>
-
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
-</p>
-
-<h4 align="center">Backend & Runtime</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
-</p>
-
-<h4 align="center">Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
-</p>
-
-<h4 align="center">DevOps & Infrastructure</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,bash" />
-</p>
-
-<h4 align="center">Messaging & Streaming</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-</p>
-
-<h4 align="center">AI & ML</h4>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>
-</p>
-
-<h4 align="center">Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,go,py,cpp,react,nextjs,redux,tailwind,html,css,nodejs,express,graphql,mongodb,postgres,mysql,redis,firebase,docker,kubernetes,aws,nginx,linux,bash,kafka,git,postman,figma&perline=50" height="30" />
 </p>
 
 
 
-## 📊 GitHub Stats
 
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dipan-ck&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+
 
 
 
