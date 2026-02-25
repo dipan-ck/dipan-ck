@@ -29,6 +29,7 @@
 
 - 🐚 **[Zen Shell](https://github.com/dipan-ck/Zen)** - A shell, written in Rust.
 - 🔥 **[Blaze](https://github.com/dipan-ck/Blaze)** - A Git clone in Rust — content-addressable storage, blob/tree/commit objects, and SHA-1 hashing.
+- 📃 **[Editra](https://github.com/dipan-ck/editra)** - A lightweight, terminal-based text editor written in Rust.
 - 💬 **[Discuss](https://discuss.dipanck.com)** - Real-time communication platform with text channels and low-latency voice rooms using WebSockets and WebRTC.
 - ⚡ **[SignalJs](https://github.com/dipan-ck/SignalJs)** - Lightweight web framework with type-safe routing, Zod validation, and middleware support built on Web Standards.
 - ☁️ **[Clove](https://clove-vercel-clone.vercel.app/signin)** - Vercel-inspired deployment platform that builds React apps from GitHub, runs isolated ECS tasks, and serves via S3.
