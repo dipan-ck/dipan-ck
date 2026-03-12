@@ -26,7 +26,7 @@
 
 
 ## 🌟 Featured Projects
-
+- 👯 **[Adda](https://adda.dipanck.com)** - Instantly create or join rooms. Enjoy voice chat, high-quality screen sharing for movies or games, and camera streaming.
 - 🐚 **[Zen Shell](https://github.com/dipan-ck/Zen)** - A shell, written in Rust.
 - 🔥 **[Blaze](https://github.com/dipan-ck/Blaze)** - A Git clone in Rust — content-addressable storage, blob/tree/commit objects, and SHA-1 hashing.
 - 📃 **[Editra](https://github.com/dipan-ck/editra)** - A lightweight, terminal-based text editor written in Rust.
