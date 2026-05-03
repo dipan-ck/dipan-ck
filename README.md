@@ -1,34 +1,33 @@
-<h1 align="center">Dipan Chakraborty</h1>
+<h1 align="center">Hi, I'm Dipan Chakraborty <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="28"></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=System+Programmer;Backend+Developer;Linux+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://dipanck.com"><img src="https://img.shields.io/badge/dipanck.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-  <a href="https://linkedin.com/in/dipan-chakraborty-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://twitter.com/DipanCk"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-  <a href="https://medium.com/@dipan2003.dev"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
-  <a href="https://leetcode.com/dipan-ck"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>&nbsp;
-  <a href="mailto:dipan2003.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <p><em>"I like understanding how things work, so I build what interests me—shells, databases, editors, version control—from scratch."</em></p>
 </div>
 
-<br/>
-  I like understanding how things work, so I build what interests me—shells, databases, editors, version control—from scratch.
-<br/>
-
 <div align="center">
-  <h3>My System</h3>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Hyprland-00BFFF?style=flat-square&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Zsh-89e051?style=flat-square&logo=gnu-bash&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
+  <a href="https://dipanck.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/dipan-chakraborty-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/DipanCk"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@dipan2003.dev"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://leetcode.com/dipan-ck"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:dipan2003.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br/>
 
+<div align="center">
+  <h3>⚡ My System ⚡</h3>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=111111" alt="Zsh" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</div>
+
+<br/>
 
 
 ## Featured Projects
