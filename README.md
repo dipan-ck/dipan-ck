@@ -1,7 +1,7 @@
 <h1 align="center">Dipan Chakraborty</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=I+build+things+to+understand+how+they+work.;Real+products.+Systems+from+scratch.+Always+curious." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=System+Programmer;Backend+Developer;Linux+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,8 +16,7 @@
 </div>
 
 <br/>
-I write code because I love understanding how things work. I build applications that solve real problems, and when something interests me at a deeper level — shells, databases, editors, version control — I build that from scratch too. Both sides feed each other.
-
+  I like understanding how things work, so I build what interests me—shells, databases, editors, version control—from scratch.
 <br/>
 
 <div align="center">
@@ -30,7 +29,7 @@ I write code because I love understanding how things work. I build applications 
 
 <br/>
 
----
+
 
 ## Featured Projects
 
@@ -43,7 +42,6 @@ I write code because I love understanding how things work. I build applications 
           <a href="https://github.com/dipan-ck/swift-auth">A type-safe authentication library for TypeScript</a> — framework agnostic, built with developer experience in mind. Email/password, OAuth2 (Google & GitHub), Drizzle adapter, Express handler.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/status-active-a78bfa?style=flat-square"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square"/>
@@ -159,7 +157,7 @@ I write code because I love understanding how things work. I build applications 
 
 <br/>
 
----
+
 
 ## GitHub Analytics
 
@@ -197,7 +195,7 @@ I write code because I love understanding how things work. I build applications 
 
 <br/>
 
----
+
 
 ## Tech Stack
 
@@ -207,7 +205,7 @@ I write code because I love understanding how things work. I build applications 
 
 <br/>
 
----
+
 
 ## Currently Building
 
