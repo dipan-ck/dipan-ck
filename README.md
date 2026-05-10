@@ -30,134 +30,6 @@
 <br/>
 
 
-## Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Swift Auth</h3>
-        <p align="center">
-          <a href="https://github.com/dipan-ck/swift-auth">A type-safe authentication library for TypeScript</a> — framework agnostic, built with developer experience in mind. Email/password, OAuth2 (Google & GitHub), Drizzle adapter, Express handler.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Adda</h3>
-        <p align="center">
-          <a href="https://adda.dipanck.com/">Real-time room platform</a> — voice chat, screen sharing for movies/games, camera streaming. Create or join rooms instantly.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
-          <img src="https://img.shields.io/badge/mediasoup-FF6B35?style=flat-square"/>
-          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Clove</h3>
-        <p align="center">
-          <a href="https://clove.dipanck.com/">Vercel-inspired deployment platform</a> — builds React apps from GitHub, isolated ECS tasks, served via S3.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Zen Shell</h3>
-        <p align="center">
-          <a href="https://github.com/dipan-ck/Zen">Unix shell in Rust</a> — pipes, redirections, background jobs, built-in commands, signal handling from scratch.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-          <img src="https://img.shields.io/badge/POSIX-FF6B35?style=flat-square"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Blaze</h3>
-        <p align="center">
-          <a href="https://github.com/dipan-ck/Blaze">Git clone in Rust</a> — content-addressable storage, blob/tree/commit objects, SHA-1 hashing.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Git%20Internals-F05032?style=flat-square&logo=git&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">AtomDB</h3>
-        <p align="center">
-          <a href="https://github.com/dipan-ck/atomdb">Redis-compatible in-memory database in Go</a> — multi-client, TTL expiry, LRU eviction, RESP parser.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redis%20Compatible-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Ragna AI</h3>
-        <p align="center">
-          <a href="https://ragna.dipanck.com/">RAG-powered AI platform</a> — indexes files as vectors for context-aware, instruction-driven responses.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Pinecone-00A67E?style=flat-square"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Discuss</h3>
-        <p align="center">
-          <a href="https://discuss.dipanck.com/">Real-time communication platform</a> — text channels and low-latency voice rooms via WebSockets and WebRTC.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Editra</h3>
-        <p align="center">
-          <a href="https://github.com/dipan-ck/editra">Lightweight terminal text editor in Rust</a> — raw mode, cursor handling, syntax highlighting.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">SignalJs</h3>
-        <p align="center">
-          <a href="https://github.com/dipan-ck/SignalJs">Lightweight web framework</a> — type-safe routing, Zod validation, middleware support built on Web Standards.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Web%20Standards-010101?style=flat-square"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-
-
 ## GitHub Analytics
 
 <div align="center">
@@ -212,7 +84,7 @@
   <table>
     <tr>
       <td width="100%">
-        <h3 align="center">Swift Auth</h3>
+        <h3 align="center">Authio</h3>
         <p align="center">
           A type-safe authentication library for TypeScript — framework agnostic, built with developer experience in mind. Email/password login, OAuth2 providers (Google & GitHub), Drizzle ORM adapter, and plug-and-play Express handlers.
         </p>
