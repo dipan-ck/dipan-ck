@@ -13,10 +13,22 @@ I love learning about backend engineering, systems programming, and building sca
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,go,py,cpp,c,react,nextjs,tailwind,nodejs,express,graphql,postgres,mongodb,redis,docker,aws,linux,bash,git,figma&perline=11" />
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,c&theme=dark" />
+</p>
+
+**Backend & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,linux,git&theme=dark" />
 </p>
 
 ## Exploring
 
 Systems programming, perating system internals, and Distributed Systems
+
+<p align="center">
+  <img src="assets/footer.svg" alt="" width="100%" />
+</p>
