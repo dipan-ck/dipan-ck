@@ -1,6 +1,8 @@
 # Hi, I'm Dipan Chakraborty
 
-A programmer interested in understanding how things work under the hood. I enjoy building things from scratch.
+I started programming because I wanted to build games and create anything I could imagine. The idea that I could turn my ideas into something real felt like a superpower, and that feeling is what drives me to this day.
+
+I love learning about backend engineering, systems programming, and building scalable infrastructure. I enjoy tackling interesting problems, understanding how things work, and using what I learn to build things that might make someone else's life a little better.
 
 ## System Setup
 
