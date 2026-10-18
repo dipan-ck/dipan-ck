@@ -27,7 +27,7 @@ I love learning about backend engineering, systems programming, and building sca
 
 ## Exploring
 
-Systems programming, perating system internals, and Distributed Systems
+Systems programming, Operating system internals, and Distributed Systems
 
 <p align="center">
   <img src="assets/footer.svg" alt="" width="100%" />
